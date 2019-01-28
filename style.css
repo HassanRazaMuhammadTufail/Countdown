@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+    color: brown;
+}
+#hrs{
+    width: 40px;
+}
+#min{
+    width: 40px;
+}
+#timer{
+    font-size: 40px;
+    text-align: center;
+    /* align-content: center; */
+    margin: 0 auto;
+}
